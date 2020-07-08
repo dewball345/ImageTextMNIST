@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+*{
+  margin:20px;
+  font-family: Arial;
+}
+
+h6{
+  font-size:8;
+}
+canvas {
+  display: block;
+  margin: 20px;
+}
